@@ -19,6 +19,7 @@ A sample app that utilizes [BLoC](https://bloclibrary.dev/#/) pattern and Clean 
 
 ## Network
 * [Dio](https://pub.dev/packages/dio) - HTTP RESTful connections
+* [JsonSerializable](https://pub.dev/packages/json_serializable) - code generation library for serializing and deserializing JSON data
 
 ## Persistence
 * [Isar](https://pub.dev/packages/isar) - Super Fast Cross-Platform Database for Flutter
